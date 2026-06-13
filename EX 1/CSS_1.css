@@ -1,0 +1,16 @@
+.table-container {
+    width: 100%;
+    margin-top: 15px;
+    border-collapse: collapse;
+    
+}
+
+.table-container, th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+th {
+    background-color: aqua;
+}
